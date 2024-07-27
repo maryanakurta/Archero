@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Archero Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|c:\\users\\pc\\archero prototype\\assets\\balldetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|solutionrelative:assets\\balldetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|c:\\users\\pc\\archero prototype\\assets\\scripts\\playermovementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|C:\\Users\\PC\\Archero Prototype\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|C:\\Users\\PC\\Archero Prototype\\assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|C:\\Users\\PC\\Archero Prototype\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B81DEC-F351-7A1C-DE33-178BE00B0507}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallDetector.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Archero Prototype\\Assets\\BallDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\BallDetector.cs",
+              "ToolTip": "C:\\Users\\PC\\Archero Prototype\\Assets\\BallDetector.cs",
+              "RelativeToolTip": "Assets\\BallDetector.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:55:21.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:12:15.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:29:58.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovementManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\PlayerMovementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovementManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\PlayerMovementManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovementManager.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwFoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:57:43.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyFollow.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\EnemyFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFollow.cs",
+              "ToolTip": "C:\\Users\\PC\\Archero Prototype\\Assets\\Scripts\\EnemyFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyFollow.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:03:59.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
